@@ -6,6 +6,8 @@
 // }
 // }
 
+console.log("hello");
+
 // let param =(x)=>{
 //     return new Promise((res,rej)=>{
 //         console.log(x);
