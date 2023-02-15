@@ -218,6 +218,7 @@ console.log(2**3);
 console.log(2**3);
 console.log("hii kunal")
 console.log("hii pritam!")
+console.log("hii nitin");
 // const datas = [
 //     { name: "Kunal", Age: 21 },
 //     { name: "Rahul", Age: 22 },
